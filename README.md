@@ -1,7 +1,7 @@
 # Instructions
 
 ## Button Auto-Border & Gradient.py
-Please download the corresponding ZIP alongside the .py file.
+Please download the corresponding ZIP [here](https://github.com/Crystal2002/Crystal-s-AO2-Scripts/blob/main/Extra%20Files/Button%20Border%20Add-on.7z)
 _THIS SCRIPT WILL OVERWRITE ALL FILES IN THE FOLDER. MAKE A BACKUP IF YOU'RE CONCERNED OF ANY POTENTIAL PROBLEMS_
 
 The whole purpose of this script is to make those pretty buttons with the borders and gradients extremely simple to do. To prepare for using this script, you'll want to do the following:
