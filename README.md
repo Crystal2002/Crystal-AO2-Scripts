@@ -12,7 +12,7 @@ The whole purpose of this script is to make those pretty buttons with the border
 - Optional: Have "gradient.png" in the same folder as your buttons
 
 So by now, you're going to have something like this
-![](https://puu.sh/IezZh/49bdf66697.png)
+![](https://puu.sh/IeAsj/b21d4db802.png)
 
 Now, you just run the script, and ta-da: You have bordered buttons w/ your gradient background!
 
