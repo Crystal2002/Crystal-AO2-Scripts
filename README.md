@@ -5,11 +5,12 @@ Please download the corresponding ZIP [here](https://drive.google.com/file/d/11_
 _This script will create a backup of all affected files as it runs. Please make sure to make a copy of the original folder if you are still concerned._
 
 The whole purpose of this script is to make those pretty buttons with the borders and gradients extremely simple to do. To prepare for using this script, you'll want to do the following:
-- Create the `[charactername]\emotions` folder ahead-of-time
-- Have all your emotion buttons be 38x38 with a canvas size of 40x40
-    - If I just made 0 sense, grab the XBS script from the ZIP and use it to run your buttons through XnConvert first.
-- Have "border.png" in the same folder as your buttons
-- Optional: Have "gradient.png" in the same folder as your buttons
+- _Make sure to have Python 3.8 (earliest tested version), should work on most Python 3.x versions however._
+- Create the `[charactername]\emotions` folder (if you haven't already)
+- Have all your emotion `buttons` in the folder.
+- Have `border.png` in the same folder as your buttons. Must be the same size as the buttons
+- Optional: Have `gradient.png` in the same folder as your buttons (this adds a background layer to the image), must be the same canvas size as the buttons
+- Run the script. (You won't get a prompt saying success/fail if you double-click the file. If it is not running, open Command Prompt and run it from there - It's possible that the script is trying to tell you something, but since it auto-closes you can't see it!)
 
 So by now, you're going to have something like this
 ![image](https://user-images.githubusercontent.com/27789584/158398840-61411f90-a3dd-41c3-9644-cf41a37fbae1.png)
